@@ -1,0 +1,15 @@
+/Users/macbook/Projects/2.2_Task/2.2_Task/bin/Debug/net7.0/2.2_Task
+/Users/macbook/Projects/2.2_Task/2.2_Task/bin/Debug/net7.0/2.2_Task.deps.json
+/Users/macbook/Projects/2.2_Task/2.2_Task/bin/Debug/net7.0/2.2_Task.runtimeconfig.json
+/Users/macbook/Projects/2.2_Task/2.2_Task/bin/Debug/net7.0/2.2_Task.dll
+/Users/macbook/Projects/2.2_Task/2.2_Task/bin/Debug/net7.0/2.2_Task.pdb
+/Users/macbook/Projects/2.2_Task/2.2_Task/obj/Debug/net7.0/2.2_Task.csproj.AssemblyReference.cache
+/Users/macbook/Projects/2.2_Task/2.2_Task/obj/Debug/net7.0/2.2_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/2.2_Task/2.2_Task/obj/Debug/net7.0/2.2_Task.AssemblyInfoInputs.cache
+/Users/macbook/Projects/2.2_Task/2.2_Task/obj/Debug/net7.0/2.2_Task.AssemblyInfo.cs
+/Users/macbook/Projects/2.2_Task/2.2_Task/obj/Debug/net7.0/2.2_Task.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/2.2_Task/2.2_Task/obj/Debug/net7.0/2.2_Task.dll
+/Users/macbook/Projects/2.2_Task/2.2_Task/obj/Debug/net7.0/refint/2.2_Task.dll
+/Users/macbook/Projects/2.2_Task/2.2_Task/obj/Debug/net7.0/2.2_Task.pdb
+/Users/macbook/Projects/2.2_Task/2.2_Task/obj/Debug/net7.0/2.2_Task.genruntimeconfig.cache
+/Users/macbook/Projects/2.2_Task/2.2_Task/obj/Debug/net7.0/ref/2.2_Task.dll
